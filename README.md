@@ -4,5 +4,17 @@
 * 기본조작 - w,a,s,d 이동
          - shift를 누른채 이동 -> 공격
 * sound_back폴더는 따로 다운해야함.
+* 알아서 프로젝트폴더에 이식하렴.
+* 디렉토리 구조
+* MTE
+*  |---MTE.py
+*  |---MTE.sh
+*  |---sound
+*  |---sound_back
+*  |---images
+*  |---fonts
+*  |---__pycache__
+*  |---README.md
+
 * 아래 링크에서 sound_back폴더 다운로드
 * https://drive.google.com/drive/folders/17PYjFR3YkSebLTppGIQ5BM1jQv8NzZqG?usp=sharing
